@@ -1,0 +1,9 @@
+# Binaries
+bin
+obj
+
+# Log files
+*.log
+
+# Local files
+*.gitignore.*
